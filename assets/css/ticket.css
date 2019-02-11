@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+
+p {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.box {
+    padding: 10px;
+}
